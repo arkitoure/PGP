@@ -29,5 +29,5 @@ The PGP repository and all contributions are open source, operating under the `A
 
 ---
 
-Join the Physis community in driving forward the future of decentralized governance. Your voice is crucial in building a transparent, equitable, and inclusive DAO.
+Join the Physis community** in driving forward the future of decentralized governance. Your voice is crucial in building a transparent, equitable, and inclusive DAO. (**Community Registration TBA)
 
