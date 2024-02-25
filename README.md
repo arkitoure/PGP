@@ -25,7 +25,7 @@ Welcome to the PGP repository, the central hub for Physis Governance Proposals. 
 For any questions or assistance with the proposal process, please reach out through our designated support channels. Our community managers are dedicated to facilitating a smooth governance experience.
 
 ## License
-The PGP repository and all contributions are open source, operating under the APL2 license. This ensures transparency and freedom in our collective governance efforts.
+The PGP repository and all contributions are open source, operating under the `Apache-2.0` license. This ensures transparency and freedom in our collective governance efforts.
 
 ---
 
