@@ -9,7 +9,7 @@
 - Vote Requirements: <!-- Council/Community, PRIVÉ Holders, ASTRALIS Holders -->
 
 
-***Note**: While below template serves as a comprehensive guide for crafting a proposal, it's not mandatory to address each point line by line verbatim. We encourage authors to present their ideas in a manner that is both direct and easy to understand, ensuring the essence of the proposal is clearly communicated. It's important to consider all points laid out in the template, but feel free to adapt the structure to best convey your message.* <!-- Please delete this note from your final submission! -->
+***Note**: While the below template serves as a comprehensive guide for crafting a proposal, it's not mandatory to address each point line by line verbatim. We encourage authors to present their ideas in a manner that is both direct and easy to understand, ensuring the essence of the proposal is clearly communicated. It's important to consider all points laid out in the template, but feel free to adapt the structure to best convey your message.* <!-- Please delete this note from your final submission! -->
 
 
 
