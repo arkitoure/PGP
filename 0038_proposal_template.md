@@ -1,13 +1,19 @@
-# PGP Template (Enter a title for the proposal & a maintainer will designate the proposal number)
+# PGP Template <!-- Enter a title for the proposal & a maintainer will designate the proposal number -->
 
 - Author(s): <!-- your GitHub @username and/or SOL address -->
 - Start Date: <!-- fill in with current date, YYYY-MM-DD -->
 - Category: <!-- economic, technical -->
+- Governance Role: <!-- Council and/or Community -->
 - Original PGP Pull Request: <!-- leave empty; maintainer will provide ID -->
 - Tracking Issue: <!-- leave empty; maintainer will create discussion issue -->
 - Vote Requirements: <!-- Council/Community, PRIVÉ Holders, ASTRALIS Holders -->
 
-### Summary
+
+***Note**: While below template serves as a comprehensive guide for crafting a proposal, it's not mandatory to address each point line by line verbatim. We encourage authors to present their ideas in a manner that is both direct and easy to understand, ensuring the essence of the proposal is clearly communicated. It's important to consider all points laid out in the template, but feel free to adapt the structure to best convey your message.* <!-- Please delete this note from your final submission! -->
+
+
+
+## Summary
 
 Provide a succinct overview of the proposal in one paragraph. This should clearly articulate the proposal's objective, the key problem it addresses, and the main solution or action it proposes. Aim to capture the essence of what's being proposed and its expected impact, making it easy for readers to quickly grasp the significance of the proposal at a glance.
 
@@ -33,7 +39,7 @@ Provide a succinct overview of the proposal in one paragraph. This should clearl
 
 ## Explanation
 
-- **Concept Introduction:** Start by breaking down any new concepts or ideas introduced by this proposal. Use plain language to make it accessible to everyone, regardless of their technical background.
+- **Concept Introduction:** Start by breaking down any new concepts or ideas introduced by this proposal. Use plain language, where possible, to make it accessible to everyone, regardless of their technical background.
 
 - **Implementation Overview:** Provide a clear overview of how the proposal could be brought to life. Highlight the key steps or stages involved in its execution, aiming for transparency in the process.
 
