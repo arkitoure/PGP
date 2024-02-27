@@ -1,7 +1,7 @@
 # PGP Template <!-- Enter a title for the proposal & a maintainer will designate the proposal number -->
 
 - Author(s): <!-- your GitHub @username and/or SOL address -->
-- Start Date: <!-- fill in with current date, YYYY-MM-DD -->
+- Start Date: <!-- fill in the current date, YYYY-MM-DD -->
 - Category: <!-- economic, technical -->
 - Governance Role: <!-- Council and/or Community -->
 - Original PGP Pull Request: <!-- leave empty; maintainer will provide ID -->
