@@ -1,4 +1,4 @@
-# Council Governance Protocol
+# PGP39: Council Governance Protocol
 
 ## Introduction
 
@@ -66,3 +66,5 @@ This protocol can be amended through the DAO's governance process, with proposed
 ## Conclusion
 
 This initial protocol is designed to be straightforward yet effective, laying the foundation for robust governance. As the DAO evolves, so too will its governance structures, always with an eye towards inclusivity, transparency, and efficiency.
+
+
