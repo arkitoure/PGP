@@ -46,7 +46,7 @@ Council Members are expected to:
 
 ## Incentive System
 
-As the Council serves with a mission critical responsibility with the DAO there will be an fair and balanced incentive system established that values their contributions:
+As the Council serves with a mission critical responsibility with the DAO, there will be a fair and balanced incentive system established that values all contributions:
 
 - Vested allocation of 72T PHY from the DAO Treasury per Council Member.
 - Monthly emissions of 6% over the full course of a Members 24 month term.
@@ -60,7 +60,7 @@ By accepting the position of a Council Member, the Member agrees adhere to the t
 
 ## Amendment
 
-This agreement can be amended through the DAO's governance process, with proposed changes subject to Council review and approval.
+This protcol can be amended through the DAO's governance process, with proposed changes subject to Council review and approval.
 
 ## Conclusion
 
