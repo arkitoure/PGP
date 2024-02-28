@@ -37,6 +37,13 @@ Council Members are expected to:
 - Council members are accountable to the DAO community, with mechanisms in place for feedback and, if necessary, recall based on performance or misconduct.
 - The governance framework will be revisited regularly, allowing for adjustments and refinements to align with the DAO's growth and evolving needs.
 
+## Term and Removal
+
+- Members serve for a 24 month term, with the possibility of renewal based on performance and community trust.
+- A Member may be removed by a majority vote of the Council for failing to meet responsibilities, misconduct, or any action deemed harmful to the DAO.
+- The process for removal shall involve a 3 day review period, during which the Member in question will have the opportunity to respond to concerns raised.
+- Members can retire if they no longer wish to serve, with a 3 month grace period allowing the Council to appoint a replacing Member.
+
 ## Incentive System
 
 As the Council serves with a mission critical responsibility with the DAO there will be an fair and balanced incentive system established that values their contributions:
@@ -46,13 +53,6 @@ As the Council serves with a mission critical responsibility with the DAO there 
 - Council Members can opt to lock their emissions with an 8% annual reward.
 - Rewards are subject to review and adjustment by the DAO's governance process.
 - The Council can agree to discontinue Member Incentives if Protocol is violated or if the Member decides to retire.
-
-## Term and Removal
-
-- Members serve for a 24 month term, with the possibility of renewal based on performance and community trust.
-- A Member may be removed by a majority vote of the Council for failing to meet responsibilities, misconduct, or any action deemed harmful to the DAO.
-- The process for removal shall involve a 3 day review period, during which the Member in question will have the opportunity to respond to concerns raised.
-- Members can retire if they no longer wish to serve, with a 3 month grace period allowing the Council to appoint a replacing Member.
 
 ## Protocol Agreement
 
