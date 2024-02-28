@@ -8,7 +8,7 @@ This protocol outlines the initial roles, responsibilities, incentives, and term
 
 - **Decision-Making:** Council members are responsible for making informed decisions on governance, strategy, and critical operational issues.
 - **Community Engagement:** Members will actively engage with the community, representing their interests and ensuring transparency in governance processes.
-- **Agility in Critical Situations:** The Council will prioritize swift action on urgent matters, with decisions made in the best interest of the DAO's health and security.
+- **Agility in Critical Situations:** The Council will prioritise swift action on urgent matters, with decisions made in the best interest of the DAO's health and security.
 
 ## Roles and Responsibilities
 
@@ -39,11 +39,11 @@ Council Members are expected to:
 
 ## Incentive System
 
-As the Council serves with a mission critical resposiblity with the DAO there will be an fair and balnced incentive system established that values their contributions:
+As the Council serves with a mission critical responsibility with the DAO there will be an fair and balanced incentive system established that values their contributions:
 
 - Vested allocation of 72T PHY from the DAO Treasury per Council Member.
-- Monthly emmsions of 6% over the full course of a Members 24 month term.
-- Council Memebrs can opt to lock their emmsions with an 8% annual reward.
+- Monthly emissions of 6% over the full course of a Members 24 month term.
+- Council Members can opt to lock their emissions with an 8% annual reward.
 - Rewards are subject to review and adjustment by the DAO's governance process.
 - The Council can agree to discontinue Member Incentives if Protocol is violated or if the Member decides to retire.
 
@@ -52,7 +52,7 @@ As the Council serves with a mission critical resposiblity with the DAO there wi
 - Members serve for a 24 month term, with the possibility of renewal based on performance and community trust.
 - A Member may be removed by a majority vote of the Council for failing to meet responsibilities, misconduct, or any action deemed harmful to the DAO.
 - The process for removal shall involve a 3 day review period, during which the Member in question will have the opportunity to respond to concerns raised.
-- Memebers can retire if they no longer wish to serve, with a 3 month grace period allowing the Council to appoint a replacing Member.
+- Members can retire if they no longer wish to serve, with a 3 month grace period allowing the Council to appoint a replacing Member.
 
 ## Protocol Agreement
 
