@@ -61,7 +61,7 @@ By accepting the position of a Council Member, the Member agrees adhere to the t
 
 ## Amendments
 
-This protcol can be amended through the DAO's governance process, with proposed changes subject to Council review and approval.
+This protocol can be amended through the DAO's governance process, with proposed changes subject to Council review and approval.
 
 ## Conclusion
 
