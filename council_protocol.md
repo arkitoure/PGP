@@ -53,12 +53,13 @@ As the Council serves with a mission critical responsibility with the DAO, there
 - Council Members can opt to lock their emissions with an 8% annual reward.
 - Rewards are subject to review and adjustment by the DAO's governance process.
 - The Council can agree to discontinue Member Incentives if Protocol is violated or if the Member decides to retire.
+- The intial warm-up phase for vested emissions will be 1 month from the approval of this Protocol.
 
 ## Protocol Agreement
 
 By accepting the position of a Council Member, the Member agrees adhere to the terms outlined in this Protocol, to act in the best interests of the DAO, and to uphold the principles and responsibilities of their role.
 
-## Amendment
+## Amendments
 
 This protcol can be amended through the DAO's governance process, with proposed changes subject to Council review and approval.
 
