@@ -16,13 +16,7 @@ Given our current membership count of 8, the total monthly distribution will amo
 
 To ensure an even distribution of 3000 PHY tokens monthly to each of 8 members while minimizing liquidity impact, we adjust the distribution schedule based on the month's length. This document outlines the formula and specific adjustments required for months with 30, 31, 28 days, and February in a leap year.
 
-## Given Variables
-
-- \(M = 8\): Total number of members.
-- \(D\): Total days in the month (30 for months with 30 days, 31 for months with 31 days, 28 for February in non-leap years, and 29 for February in leap years).
-- \(i\): Member's assigned number (1 through 8).
-
-## Distribution Day Formula
+## Distribution Formula
 
 The formula to calculate the distribution day (\(D_{dist}\)) for each member is as follows:
 
