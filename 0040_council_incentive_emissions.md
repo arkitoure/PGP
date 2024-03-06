@@ -79,21 +79,6 @@ The emission strategy is designed to span a 24-month period, a standard Council 
 - **Council Member Incentivization:** A clear, structured reward mechanism encourages ongoing participation and contribution to the DAO.
 - **Market Stability:** A staggered release helps maintain stability, benefiting both our members and the overall ecosystem.
 
-## Initial Launch: One-Month Lock on Emissions
-
-To ensure a smooth launch and the completion of essential project-related matters, we will implement a one-month lock on emissions following the initial distribution of PHY. This lock period is designed to:
-
-- **Stabilize the Ecosystem Economy:** Curb immediate exits, allowing the market to stabilize and value to accrue based on project fundamentals rather than initial speculation.
-- **Finalize Project Infrastructure:** Provide the team with the necessary time to finalize any outstanding infrastructure needs, ensuring that all systems are fully operational and secure.
-- **Community Engagement and Feedback:** Allow time for initial community engagement and feedback, enabling adjustments to project direction, utility, and distribution mechanisms based on user input.
-- **Strategic Partnerships:** Finalize discussions and formalize agreements with strategic partners, ensuring that the project ecosystem is robust and supported by key industry players from the start.
-
-### Implementation Details
-
-- **Lock Period Start:** The lock period will commence immediately following the initial token distribution to DAO Council members.
-- **Duration:** The lock will be in place for exactly one month from the start date.
-- **Emissions Resume:** Following the conclusion of the one-month lock period, regular emissions as outlined in the [Distribution Day Formula](#distribution-day-formula) section will resume according to the predetermined schedule.
-
 ## Escrow Account for 24-Month Allocation
 
 In alignment with our commitment to transparency and security, the allocation of PHY for the 24-month incentive program for all 8 Council members will be placed in escrow at the outset of the program. This approach ensures that:
@@ -129,6 +114,20 @@ To further align the interests of our members with the long-term success of the 
 - **Smart Contract:** The emission lock program will be managed through a smart contract, which will automate the locking process, reward distribution, and ensure the integrity and security of the locked tokens.
 - **Transparency:** Details of locked emissions, including the total amount locked and rewards distributed, will be added to this proposal when avaialbe to do so.
 
+## Initial Launch: One-Month Lock on Emissions
+
+To ensure a smooth launch and the completion of essential project-related matters, we will implement a one-month lock on emissions following the initial distribution of PHY. This lock period is designed to:
+
+- **Stabilize the Ecosystem Economy:** Curb immediate exits, allowing the market to stabilize and value to accrue based on project fundamentals rather than initial speculation.
+- **Finalize Project Infrastructure:** Provide the team with the necessary time to finalize any outstanding infrastructure needs, ensuring that all systems are fully operational and secure.
+- **Community Engagement and Feedback:** Allow time for initial community engagement and feedback, enabling adjustments to project direction, utility, and distribution mechanisms based on user input.
+- **Strategic Partnerships:** Finalize discussions and formalize agreements with strategic partners, ensuring that the project ecosystem is robust and supported by key industry players from the start.
+
+### Implementation Details
+
+- **Lock Period Start:** The lock period will commence immediately following the initial token distribution to DAO Council members.
+- **Duration:** The lock will be in place for exactly one month from the start date.
+- **Emissions Resume:** Following the conclusion of the one-month lock period, regular emissions as outlined in the [Distribution Day Formula](#distribution-day-formula) section will resume according to the predetermined schedule.
 
 ## Conclusion
 
