@@ -1,10 +1,10 @@
 # PGP40: Council Incentive Emissions
 
-### Introduction
+## Introduction
 
 In our ongoing efforts to incentivize participation and reward our DAO members, we have devised a PHY emission strategy that not only recognises the Councils contributions but also safeguards project liquidity. This proposal outlines the proposed emission parameters for distributing PHY, incorporating a monthly balanced staggered release mechanism.
 
-### Emission Parameters
+## Emission Parameters
 
 Each DAO Council Member is entitled to receive an incentive reward of 3,000 PHY monthly. To manage and distribute these rewards effectively, while minimising potential impacts on liquidity, we propose the following structured approach:
 
@@ -12,7 +12,7 @@ Each DAO Council Member is entitled to receive an incentive reward of 3,000 PHY 
 
 Given our current membership count of 8, the total monthly distribution will amount to 24,000 PHY (3,000 PHY per member).
 
-# Token Distribution Schedule for Different Month Lengths
+## Token Distribution Schedule for Different Month Lengths
 
 To ensure an even distribution of 3000 PHY tokens monthly to each of 8 members while minimizing liquidity impact, we adjust the distribution schedule based on the month's length. This document outlines the formula and specific adjustments required for months with 30, 31, 28 days, and February in a leap year.
 
@@ -136,6 +136,6 @@ To further align the interests of our members with the long-term success of the 
 - **Transparency:** Details of locked emissions, including the total amount locked and rewards distributed, will be added to this proposal when avaialbe to do so.
 
 
-### Conclusion
+## Conclusion
 
 The proposed balanced staggered release strategy for PHY emissions represents a thoughtful approach to Council Member incentivization and liquidity management. By implementing this strategy, we aim to foster a healthy, sustainable economic environment for the Physis DAO.
