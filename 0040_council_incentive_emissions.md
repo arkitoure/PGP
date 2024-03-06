@@ -14,7 +14,7 @@ Given our current membership count of 8, the total monthly distribution will amo
 
 ## Token Distribution Schedule for Different Month Lengths
 
-To ensure an even distribution of 3000 PHY tokens monthly to each of 8 members while minimizing liquidity impact, we adjust the distribution schedule based on the month's length. This document outlines the formula and specific adjustments required for months with 30, 31, 28 days, and February in a leap year.
+To ensure an even distribution of 3000 PHY tokens monthly to each of 8 members while minimising liquidity impact, we adjust the distribution schedule based on the month's length. This document outlines the formula and specific adjustments required for months with 30, 31, 28 days, and February in a leap year.
 
 ## Distribution Formula
 
@@ -90,7 +90,7 @@ In alignment with our commitment to transparency and security, the allocation of
 
 ### Implementation Details
 
-- **Token Allocation:** The total sum of PHY allocated for the 24-month period for all members (calculated as 3,000 PHY per month per member, totaling 576,000 PHY for all Council members over 24 months) will be deposited in escrow from `DAO Treasury: Governance` account before the program's commencement.
+- **Token Allocation:** The total sum of PHY allocated for the 24-month period for all members (calculated as 3,000 PHY per month per member, totalling 576,000 PHY for all Council members over 24 months) will be deposited in escrow from `DAO Treasury: Governance` account before the program's commencement.
 - **Release Schedule:** PHY will be released from the escrow account according to the monthly distribution schedule outlined in the [Distribution Day Formula](#distribution-day-formula) section, following the initial one-month lock period.
 - **Oversight and Auditing:** The escrow arrangement will include provisions for regular oversight and auditing, ensuring that the release of funds occurs transparently and according to the predefined schedule.
 
@@ -99,12 +99,12 @@ In alignment with our commitment to transparency and security, the allocation of
 To further align the interests of our members with the long-term success of the project, we are introducing an optional emission lock program. Council Members who choose to participate in this program by locking their emissions will receive an annual reward of 8% on their locked allocation. This initiative is designed to:
 
 - **Encourage Long-Term Holding:** Reward members for their commitment to the project's future by providing a tangible incentive for holding their PHY.
-- **Strengthen Project Stability:** Reduce the circulating supply of PHY in the short term, which can help stabilize the token price and reduce volatility.
+- **Strengthen Project Stability:** Reduce the circulating supply of PHY in the short term, which can help stabilise the PHY value and reduce volatility.
 - **Align Interests:** Ensure that Council Members, especially those deeply involved in the project's development and growth, have aligned incentives with the project's long-term vision.
 
 ### Program Details
 
-- **Reward Rate:** Participants in the emission lock program will receive an 8% annual reward on their locked tokens, calculated based on the total amount of PHY they choose to lock.
+- **Reward Rate:** Participants in the emission lock program will receive an 8% annual reward on their locked PHY, calculated based on the total amount of PHY they choose to lock.
 - **Lock Duration:** The lock period will last for one year from the date of opting into the program. PHY cannot be accessed or transferred during this time.
 - **Founders' Participation:** The project founders have elected to have their emissions locked by default, demonstrating confidence in the project's long-term value and their commitment to its success.
 - **Opt-In Process:** Members wishing to participate in the emission lock program must opt-in by making a simple request in the Council discussion group, after which their PHY will be locked, and they will become eligible for the annual reward.
@@ -112,14 +112,14 @@ To further align the interests of our members with the long-term success of the 
 ### Implementation Considerations
 
 - **Smart Contract:** The emission lock program will be managed through a smart contract, which will automate the locking process, reward distribution, and ensure the integrity and security of the locked tokens.
-- **Transparency:** Details of locked emissions, including the total amount locked and rewards distributed, will be added to this proposal when avaialbe to do so.
+- **Transparency:** Details of locked emissions, including the total amount locked and rewards distributed, will be added to this proposal when available to do so.
 
 ## Initial Launch: One-Month Lock on Emissions
 
 To ensure a smooth launch and the completion of essential project-related matters, we will implement a one-month lock on emissions following the initial distribution of PHY. This lock period is designed to:
 
-- **Stabilize the Ecosystem Economy:** Curb immediate exits, allowing the market to stabilize and value to accrue based on project fundamentals rather than initial speculation.
-- **Finalize Project Infrastructure:** Provide the team with the necessary time to finalize any outstanding infrastructure needs, ensuring that all systems are fully operational and secure.
+- **Stabilise the Ecosystem Economy:** Curb immediate exits, allowing the market to stabilise and value to accrue based on project fundamentals rather than initial speculation.
+- **Finalise Project Infrastructure:** Provide the team with the necessary time to finalise any outstanding infrastructure needs, ensuring that all systems are fully operational and secure.
 - **Community Engagement and Feedback:** Allow time for initial community engagement and feedback, enabling adjustments to project direction, utility, and distribution mechanisms based on user input.
 - **Strategic Partnerships:** Finalize discussions and formalize agreements with strategic partners, ensuring that the project ecosystem is robust and supported by key industry players from the start.
 
