@@ -131,4 +131,4 @@ To ensure a smooth launch and the completion of essential project-related matter
 
 ## Conclusion
 
-The proposed balanced staggered release strategy for PHY emissions represents a thoughtful approach to Council Member incentivization and liquidity management. By implementing this strategy, we aim to foster a healthy, sustainable economic environment for the Physis DAO.
+The proposed balanced staggered release strategy for PHY emissions represents a thoughtful approach to Council Member incentivization and liquidity management. By implementing this strategy, we aim to foster a healthy, sustainable economic environment for the Physis ecosystem.
