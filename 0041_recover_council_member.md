@@ -14,3 +14,5 @@
 ## Summary
 
 Council Member AeFsXQkoniCmxtXSfwR7wGyMQrcgiYqFmRMzmGhChos5 to be removed due to unrecoverable account. Will be readded to the Council as 6RRRZZ8L87SipnUHorrjfBM5gYJX99FdP4FNw1D6GNFP.
+
+For transparency, the PGP action will be excecuted in 2 parts, A (removal) and B (reinstatment).
