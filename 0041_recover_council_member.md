@@ -1,4 +1,4 @@
-# PGP41: Remove & Reinstate Council Member <!-- Enter a title for the proposal & a maintainer will designate the proposal number -->
+# PGP41: Recover Council Member Account<!-- Enter a title for the proposal & a maintainer will designate the proposal number -->
 
 - Author(s): arkitoure
 - Start Date: 2024-04-18<!-- fill in the current date, YYYY-MM-DD -->
