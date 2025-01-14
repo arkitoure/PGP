@@ -1,4 +1,4 @@
-# PGP28: Grant Allocation to Physis Labs - P1
+# PGP48: Grant Allocation to Physis Labs - P1
 
 - Author(s): [@arkitoure](https://github.com/arkitoure)
 - Start Date: 2025-01-20
