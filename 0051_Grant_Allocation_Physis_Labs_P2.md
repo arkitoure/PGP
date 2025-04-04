@@ -1,4 +1,4 @@
-# PGP50: Grant Allocation to Physis Labs - P2 (PHYPRIL/Q2'25)
+# PGP51: Grant Allocation to Physis Labs - P2 (PHYPRIL/Q2'25)
 
 - Author(s): [@arkitoure](https://github.com/arkitoure)
 - Start Date: 2025-04-01
