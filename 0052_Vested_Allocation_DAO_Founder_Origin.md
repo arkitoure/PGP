@@ -1,7 +1,7 @@
 # PGP52: Vested Allocation for Founder Origin
 
 * Author(s): [@arkitoure](https://github.com/arkitoure)
-* Start Date: 2025-04-XX
+* Start Date: 2025-05-28
 * Category: Economic
 * Governance Role: Council
 * Original PGP Pull Request:&#x20;
