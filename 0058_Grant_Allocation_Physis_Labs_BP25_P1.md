@@ -12,9 +12,9 @@
 
 ## Summary
 
-This proposal represents the operational funding necessary to achieve pre-Breakpoint objectives defined in the DAO’s valuation and readiness roadmap. Phase 1 focuses on ensuring that the Physis ecosystem presents a **complete, investor-validated technology loop** — from Persona to SmartSpot to SYNCRAL to ASTRALIS — as well as the visual, regulatory, and industrial foundation expected of a world-class technology product.
+This proposal represents the operational funding necessary to achieve pre-Breakpoint objectives defined in the DAO’s valuation and readiness roadmap. P1 focuses on ensuring that the Physis ecosystem presents a **complete, investor-validated technology loop** — from Persona to SmartSpot to SYNCRAL to ASTRALIS — as well as the visual, regulatory, and industrial foundation expected of a world-class technology product.
 
-This proposal seeks approval to allocate **25,000 USDC** from the DAO’s Reserve Treasury to **Physis Labs** for **Breakpoint Objectives Phase 1**, a focused operational and strategic initiative leading up to **Breakpoint 2025 (UAE)**. Funding will be used to execute key preparations in production, ecosystem integration, and partnership visibility.
+This proposal seeks approval to allocate **25T USDC** from the DAO’s Reserve Treasury to **Physis Labs** for **Breakpoint Objectives P1**, a focused operational and strategic initiative leading up to **Breakpoint 2025 (UAE)**. Funding will be used to execute key preparations in production, ecosystem integration, and partnership visibility.
 
 ---
 
@@ -37,7 +37,7 @@ This proposal seeks approval to allocate **25,000 USDC** from the DAO’s Reserv
 
 * **Future Vision:**
 
-  * Successful execution of Phase 1 sets the stage for the final **Breakpoint Delivery Phase**, covering on-site activations, presentations, and demos.
+  * Successful execution of P1 sets the stage for the final **Breakpoint Delivery Phase**, covering on-site activations, presentations, and demos.
 
 ---
 
@@ -45,7 +45,7 @@ This proposal seeks approval to allocate **25,000 USDC** from the DAO’s Reserv
 
 * **Implementation Overview:**
 
-  * DAO will allocate **25,000 USDC** to Physis Labs for:
+  * DAO will allocate **25T USDC** to Physis Labs for:
 
     * Pre-Breakpoint production (hardware prep, demo units, displays)
     * Branding and creative assets for event presentation
